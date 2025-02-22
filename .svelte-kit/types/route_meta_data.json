@@ -1,0 +1,23 @@
+{
+	"/": [],
+	"/about-me": [],
+	"/blog": [
+		"src/routes/blog/+layout.ts",
+		"src/routes/blog/+layout.ts"
+	],
+	"/blog/[slug]": [
+		"src/routes/blog/[slug]/+page.ts",
+		"src/routes/blog/+layout.ts"
+	],
+	"/music": [],
+	"/photo-video": [],
+	"/publications": [],
+	"/whisky": [
+		"src/routes/whisky/+layout.ts",
+		"src/routes/whisky/+layout.ts"
+	],
+	"/whisky/[slug]": [
+		"src/routes/whisky/[slug]/+page.ts",
+		"src/routes/whisky/+layout.ts"
+	]
+}
