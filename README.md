@@ -3,6 +3,7 @@
 Personal website and simple blog platform built using Sveltekit.
 
 
+
 ## Setup and Development
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
@@ -24,3 +25,9 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
+
+## TODOs:
+
+- Move images to git lfs or maybe a CDN
+- Add blog posts
+- Some refactoring and organization
